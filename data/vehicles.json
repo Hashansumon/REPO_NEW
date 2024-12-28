@@ -1,0 +1,26 @@
+[
+    {
+        "name": "BMW Brand",
+        "type": "Lxury Car",
+        "price": "2000000",
+        "image": "https:\/\/www.freeiconspng.com\/thumbs\/bmw-car-png\/download-bmw-car-png-image-0.png"
+    },
+    {
+        "name": "Parado Brand",
+        "type": "Aci Car",
+        "price": "70000000000",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSdnrLk9N2XgrONpR9DWzK48wHEqlvYXOG3EQ&s"
+    },
+    {
+        "name": "Suzuki-Hayabusa",
+        "type": "Bike",
+        "price": "240000",
+        "image": "https:\/\/w7.pngwing.com\/pngs\/53\/536\/png-transparent-orange-and-black-sports-bike-suzuki-hayabusa-motorcycle-orange-mountain-bikes-sport-bike-suzuki-hayabusa-sport-motorcycle-bike-bicycle-car-motorcycle.png"
+    },
+    {
+        "name": "Frog-Animation",
+        "type": "ByCikle",
+        "price": "160000",
+        "image": "https:\/\/img.freepik.com\/premium-photo\/fun-frog-animation_183364-43254.jpg"
+    }
+]
